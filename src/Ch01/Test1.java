@@ -15,8 +15,11 @@ public class Test1 {
         input2= Character.toUpperCase(input2); // 문자를 대문자로 만들기
         int answer =0;
 
-        for(int i =0; i<input1.length(); i++){
+      /*  for(int i =0; i<input1.length(); i++){
             if(input1.charAt(i) == input2) answer += 1;
+        }*/
+        for(char x : input1.toCharArray()){ // 문자 배열 생성 (String 넣으면 안됨)
+            if(input2 == x) answer++;
         }
        System.out.println(answer);
     }
