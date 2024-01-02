@@ -1,7 +1,10 @@
 package Ch01;
 
 import java.util.Scanner;
-
+/**
+ * 날짜 : 2024/01/01
+ * 내용 : 1-02 대소문자 변환
+ */
 public class Test2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
