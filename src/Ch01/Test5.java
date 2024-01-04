@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * 날짜 : 2024/01/04
- * 내용 : 1-04 특정 문자 뒤집기
+ * 내용 : 1-05 특정 문자 뒤집기
  */
 public class Test5 {
     public static void main(String[] args) throws IOException {

@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * 날짜 : 2024/01/04
- * 내용 : 1-05 중복 문자 제거
+ * 내용 : 1-06 중복 문자 제거
  */
 public class Test6 {
     public static void main(String[] args) throws IOException {
